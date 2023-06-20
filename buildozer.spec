@@ -14,7 +14,7 @@ description = Mi aplicación Kivy
 
 # Directorio principal de tu aplicación
 # (debe contener main.py y otros archivos fuente)
-source.dir = C:\Users\Alienware\Documents\VSCode\kivy
+source.dir = C:\Users\ddaniels12\Documents\VSCode\kivy
 
 # Módulos adicionales a incluir (separados por comas)
 # Aquí debes incluir todos los módulos que estés utilizando en tu código
