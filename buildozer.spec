@@ -20,7 +20,7 @@ source.dir = C:\Users\ddaniels12\Documents\VSCode\kivy
 # Aquí debes incluir todos los módulos que estés utilizando en tu código
 # Por ejemplo, si importas kivy.app, kivy.uix.gridlayout, kivy.uix.button, etc.
 # debes incluir "kivy" en esta lista
-requirements = kivy, python3
+requirements = python3, kivy
 
 # Nombre del paquete de la aplicación (reemplaza con el nombre de tu paquete)
 # Por ejemplo: package.name = com.mycompany.myapp
